@@ -62,7 +62,7 @@ A passionate DevOps engineer who loves automating manual things with good knowle
 
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=NITHIN-JOHN-GEORGE) 
+![](https://visitor-badge.laobi.icu/badge?page_id=awkachaure) 
 
 <br>
 
