@@ -47,6 +47,17 @@ A passionate DevOps engineer who loves automating manual things with good knowle
     - Monitoring Tools:
         - Prometheus ,Grafana , Loki , ELK stack , Jaeger ( Basic )
 
+### Languages & Tools Worked On 👨🏻‍💻
+<code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/09/terminal-icon.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://www.cyberark.com/wp-content/uploads/2018/09/jenkins-e1537966865729.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://img.icons8.com/cute-clipart/50/000000/linux-client.png"/></code>&nbsp;&nbsp;
+<code><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png"></code>&nbsp;&nbsp;
+
+
 ## ⚙️ Connect with me:
 <div align="center">
   <br>
